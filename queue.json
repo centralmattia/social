@@ -1,3 +1,1500 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "a14b7da013c0436b88c0dd6935c5a4d6",
+      "title": "Viaggia sicuro: una nuova situazione reale (verifica del risultato dell'11 ottobre)",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "Ore 22:15. Ultimo treno, scendi alla tua fermata e da lì sono dieci minuti a piedi.\n\nC'è sempre qualcuno che aspetta un messaggio: «arrivata?», «sei a casa?».\n\nCon Viaggia sicuro di Central imposti dove stai andando e scegli tu le persone che possono seguire il tragitto, così sanno quando sei arrivato senza doverti scrivere.\n\nNon sostituisce l'attenzione e il buon senso. Serve a far stare più tranquilli te e chi ti vuole bene.\n\nMandalo a chi vorresti sapere arrivato a casa.\n\n#viaggiasicuro #rientroacasa #pendolari #sicurezzapersonale #centralapp",
+      "reddit_title": "Viaggia sicuro: una nuova situazione reale (verifica del risultato dell'11 ottobre)",
+      "due_at": "2026-11-01T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-30T20:27:33.833600+00:00",
+      "publish_at_local": "2026-11-01 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Con soli 6 post i dati non bastano per individuare un orario ottimale: scelgo una fascia serale ordinaria, vicina a quella del reel dell'11 ottobre (domenica 20:50), senza considerarla una causa del risultato.",
+      "strategy_reason": "Ripete il tema del reel con più copertura (634), visualizzazioni (801) e condivisioni (10) dell'account. La scena è nuova e compare nel primo secondo, prima del nome dell'app, per lavorare sullo skip all'80,1%. La funzione è descritta in termini generici finché i dettagli non sono verificati.",
+      "objective": "Capire se il tema 'Viaggia sicuro' raccontato con una scena concreta ripete copertura e condivisioni del reel dell'11 ottobre",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Ore 22:15. Ultimo treno.",
+                "size": "title",
+                "animation": "typewriter"
+              },
+              {
+                "text": "Dalla stazione a casa sono 10 minuti a piedi.",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#0B1530",
+              "#24406E"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Qualcuno sta aspettando il tuo «sono arrivato».",
+                "size": "title",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 5,
+            "background": [
+              "#13213F",
+              "#2A4A7F"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "1. Imposti dove stai andando",
+                "size": "body",
+                "animation": "slide_up"
+              },
+              {
+                "text": "2. Scegli chi può seguire il tragitto",
+                "size": "body",
+                "animation": "slide_up"
+              },
+              {
+                "text": "3. Sanno quando sei arrivato",
+                "size": "body",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Viaggia sicuro, su Central",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Mandalo a chi vorresti sapere arrivato a casa",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Comportamento reale quando salta il segnale (resta visibile l'ultima posizione?)",
+        "Funzionamento dell'avviso se la persona non arriva entro l'orario previsto",
+        "Che le posizioni siano davvero cifrate end-to-end e visibili solo ai contatti scelti",
+        "Piattaforme su cui l'app è disponibile oggi (solo Android o anche iOS)"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\a14b7da013c0436b88c0dd6935c5a4d6\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/a14b7da013c0436b88c0dd6935c5a4d6/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/a14b7da013c0436b88c0dd6935c5a4d6/reel.mp4"
+    },
+    {
+      "id": "72f2c843e39b418b8a4115f178ebdd1d",
+      "title": "Check-in «Sto bene»: come funziona in 5 slide",
+      "platform": "instagram",
+      "format": "carousel",
+      "caption": "Ogni sera la stessa telefonata: «Tutto bene, mamma?». A volte risponde subito, a volte no, e ti preoccupi.\n\nIl check-in «Sto bene» di Central serve proprio a questo: il genitore conferma con un tocco all'orario scelto e voi lo sapete. Le telefonate restano, ma per il piacere di sentirsi e non solo per controllare.\n\nIn queste 5 slide trovi come si imposta, cosa succede se la conferma non arriva e cosa il check-in non fa.\n\nSalvalo o mandalo a un fratello o una sorella con cui vi dividete le telefonate a mamma e papà.\n\n#genitorianziani #viveredasoli #famiglia #caregiver #centralapp",
+      "reddit_title": "Check-in «Sto bene»: come funziona in 5 slide",
+      "media_url": null,
+      "due_at": "2026-11-04T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-30T20:27:33.833600+00:00",
+      "publish_at_local": "2026-11-04 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Con soli 6 post (un solo carosello) non si può stabilire un orario ottimale: scelgo una fascia serale ordinaria in settimana, a più di 12 ore dagli altri post Instagram.",
+      "strategy_reason": "Il carosello «Sto bene» dell'8 ottobre è secondo per copertura (222), ma ha 0 salvataggi. Questa versione è una guida passo passo, quindi più adatta a essere salvata, e chiede l'invio privato, cioè l'interazione che ha funzionato sui post di sicurezza.",
+      "objective": "Ottenere salvataggi e invii privati da chi si prende cura di un genitore che vive da solo",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Dalla telefonata «tutto bene?» a un tocco al giorno",
+          "testo": "Il check-in «Sto bene» di Central, spiegato in 4 passaggi. Per chi ha un genitore che vive da solo o lontano."
+        },
+        {
+          "slide": 2,
+          "titolo": "1. Scegliete insieme un orario",
+          "testo": "Per esempio le 10 del mattino. Meglio decidere con il genitore un momento che faccia già parte della sua giornata."
+        },
+        {
+          "slide": 3,
+          "titolo": "2. Il genitore conferma con un tocco",
+          "testo": "All'orario stabilito basta confermare che va tutto bene. I familiari scelti vedono la conferma."
+        },
+        {
+          "slide": 4,
+          "titolo": "3. Se la conferma non arriva",
+          "testo": "I familiari scelti ricevono un avviso, così sanno che è il momento di chiamare o di passare a controllare."
+        },
+        {
+          "slide": 5,
+          "titolo": "4. Cosa non fa",
+          "testo": "È una conferma, non un tracciamento: non sostituisce la telefonata né l'aiuto di chi può intervenire sul posto."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Che l'avviso arrivi anche quando il telefono del genitore è spento (detto nel post dell'8 ottobre)",
+        "Tempi effettivi dell'avviso dopo la mancata conferma",
+        "Se la funzione è gratuita o fa parte di Premium"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\72f2c843e39b418b8a4115f178ebdd1d\\slide_01.jpg",
+        "output\\media\\72f2c843e39b418b8a4115f178ebdd1d\\slide_02.jpg",
+        "output\\media\\72f2c843e39b418b8a4115f178ebdd1d\\slide_03.jpg",
+        "output\\media\\72f2c843e39b418b8a4115f178ebdd1d\\slide_04.jpg",
+        "output\\media\\72f2c843e39b418b8a4115f178ebdd1d\\slide_05.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/72f2c843e39b418b8a4115f178ebdd1d/slide_01.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/72f2c843e39b418b8a4115f178ebdd1d/slide_02.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/72f2c843e39b418b8a4115f178ebdd1d/slide_03.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/72f2c843e39b418b8a4115f178ebdd1d/slide_04.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/72f2c843e39b418b8a4115f178ebdd1d/slide_05.jpg"
+      ]
+    },
+    {
+      "id": "ed97e94181954cd48ebd972f3ec4360a",
+      "title": "Devlog: perché Central non mostra pubblicità",
+      "platform": "instagram",
+      "format": "devlog",
+      "caption": "Sono Mattia e sto costruendo Central.\n\nUna delle prime scelte che ho fatto: niente pubblicità e nessun dato venduto. In un'app dove condividi chat, posizione e check-in con le persone a cui tieni, mi sembrava l'unica scelta coerente.\n\nHa anche dei costi. Senza pubblicità l'app deve sostenersi in un altro modo, e ne parlerò apertamente quando sarà tutto definito. E siamo ancora un progetto piccolo e indipendente, in beta: alcune cose non funzionano ancora come vorrei, e ve lo dico.\n\nNon vi chiedo di fidarvi sulla parola. Mi interessa capire cosa vi serve per farlo.\n\nQual è la cosa che ti fa fidare (o non fidare) di un'app nuova? Rispondo a tutti nei commenti.\n\n#privacy #devlog #appindipendente #fattoinitalia #centralapp",
+      "reddit_title": "Devlog: perché Central non mostra pubblicità",
+      "media_url": null,
+      "due_at": "2026-11-06T19:00:00+00:00",
+      "status": "proposed",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-30T20:27:33.833600+00:00",
+      "publish_at_local": "2026-11-06 20:00",
+      "schedule_source": "claude",
+      "schedule_reason": "I dati (6 post) non bastano per scegliere un orario ottimale: scelgo una fascia serale ordinaria di venerdì, quando c'è tempo per rispondere ai commenti, a più di 12 ore dagli altri post Instagram.",
+      "strategy_reason": "Nessun post ha ricevuto commenti e i follower sono fermi a 27. È un test esplorativo per avviare una conversazione, non si basa su dati positivi: il post di presentazione (copertura 34) è uscito quando l'account era appena nato e non dice nulla su questo formato.",
+      "objective": "Creare fiducia e far nascere le prime conversazioni (oggi 0 commenti)",
+      "slides": [],
+      "video": null,
+      "facts_to_verify": [
+        "Modello di sostenibilità economica dichiarabile (es. Premium) senza promesse non confermate",
+        "Che non ci siano SDK pubblicitari o di tracciamento di terze parti nell'app",
+        "Stato attuale della beta (open beta Android ancora attiva?)"
+      ],
+      "requires_human_fact_check": true
+    },
+    {
+      "id": "eb6973d6f47a41c39f1b420bb8182f32",
+      "title": "Viaggia sicuro adattato per TikTok (test)",
+      "platform": "tiktok",
+      "format": "reel",
+      "caption": "Ultimo autobus, fermata vuota, telefono al 20%. E qualcuno che aspetta il tuo «sono a casa».\n\nCon Viaggia sicuro di Central le persone che scegli sanno quando sei arrivato. Mandalo a chi torna sempre tardi.\n\n#rientroacasa #viaggiasicuro #studenti #sicurezzapersonale #centralapp",
+      "reddit_title": "Viaggia sicuro adattato per TikTok (test)",
+      "due_at": "2026-11-02T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-30T20:27:33.833600+00:00",
+      "publish_at_local": "2026-11-02 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Non ci sono dati di pubblicazione su TikTok e quelli Instagram (6 post) non bastano: scelgo una fascia serale ordinaria, coerente con il pubblico che rientra la sera.",
+      "strategy_reason": "'Viaggia sicuro' è l'unico tema con un segnale relativamente forte su Instagram e riadattarlo costa poco. Non ci sono dati TikTok: il risultato va valutato da solo, senza confrontarlo con Instagram.",
+      "objective": "Capire con poco impegno se il contenuto più condiviso su Instagram raggiunge persone anche su TikTok",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Ore 23:40. Ultimo autobus.",
+                "size": "title",
+                "animation": "typewriter"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#24406E"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Qualcuno aspetta il tuo «sono a casa».",
+                "size": "title",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 5,
+            "background": [
+              "#13213F",
+              "#2A4A7F"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Imposti dove stai andando",
+                "size": "body",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Scegli chi può seguire il tragitto",
+                "size": "body",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Sanno quando sei arrivato",
+                "size": "body",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Viaggia sicuro, su Central",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Mandalo a chi torna sempre tardi",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Esistenza e stato di un account TikTok di Central",
+        "Disponibilità dell'app sulle piattaforme indicate nel video",
+        "Diritti d'uso di musica ed elementi visivi"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\eb6973d6f47a41c39f1b420bb8182f32\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/eb6973d6f47a41c39f1b420bb8182f32/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/eb6973d6f47a41c39f1b420bb8182f32/reel.mp4"
+    },
+    {
+      "id": "7c11a18df406401587553813ab63fd1e",
+      "title": "Devlog su Reddit: lezioni dal lancio di un'app indipendente per la sicurezza personale",
+      "platform": "reddit",
+      "format": "devlog",
+      "caption": "Ciao a tutti, sono Mattia. Da qualche mese sviluppo da solo Central, un'app che mette insieme chat, una parte social e alcune funzioni di sicurezza personale (condividere un tragitto con chi scegli, un check-in giornaliero per chi vive da solo). È in beta.\n\nNon scrivo per promuoverla, ma perché mi servono pareri esterni. Ecco alcune cose che ho imparato finora.\n\n1. Spiegare la privacy è più difficile che implementarla. Lavoro sulla cifratura dei dati sensibili come la posizione, ma scrivere «cifrato» non basta: le persone vogliono capire chi può vedere cosa. Sto ancora cercando un modo semplice e corretto per spiegarlo.\n\n2. Ho scelto di non mettere pubblicità. Mi sembrava coerente con un'app che gestisce dati personali, ma significa che la sostenibilità economica è ancora una questione aperta.\n\n3. Sui social i numeri sono piccoli. Il contenuto che ha funzionato di più raccontava una situazione concreta (un rientro serale con l'autobus in ritardo), non un elenco di funzioni. Però non ho quasi nessun riscontro qualitativo: zero commenti. Per questo sono qui.\n\n4. Cosa non funziona ancora: [da completare con problemi reali e verificati della beta].\n\nLa domanda che mi interessa di più: cosa ti servirebbe vedere per fidarti di un'app di sicurezza nuova, fatta da una persona sola? Codice aperto, audit, una spiegazione tecnica dettagliata, altro?\n\nAccetto anche critiche dirette. Se le regole del subreddit lo permettono, lascio il link nei commenti a chi lo chiede.",
+      "reddit_title": "Sviluppo da solo un'app di sicurezza personale: cosa ho imparato finora e cosa mi servirebbe sapere da voi",
+      "media_url": null,
+      "due_at": "2026-11-03T18:00:00+00:00",
+      "status": "proposed",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-30T20:27:33.833600+00:00",
+      "publish_at_local": "2026-11-03 19:00",
+      "schedule_source": "claude",
+      "schedule_reason": "Non ci sono dati Reddit e quelli Instagram (6 post) non sono trasferibili né sufficienti: scelgo una fascia serale ordinaria in settimana, quando posso rispondere subito ai commenti.",
+      "strategy_reason": "Il problema principale emerso dai dati è l'assenza di conversazione (0 commenti). È un test esplorativo per raccogliere feedback qualitativo, da pubblicare solo nei subreddit che ammettono i devlog. Il punto 4 resta da completare con fatti reali.",
+      "objective": "Raccogliere feedback qualitativo sul prodotto e sul messaggio, che i social oggi non danno (0 commenti)",
+      "slides": [],
+      "video": null,
+      "facts_to_verify": [
+        "Regole sull'autopromozione dei subreddit scelti",
+        "Dettagli tecnici sulla cifratura che si possono dichiarare pubblicamente e in modo corretto",
+        "Numeri sulla beta (utenti, feedback) solo se esistono dati reali da citare"
+      ],
+      "requires_human_fact_check": true
+    },
+    {
+      "id": "821a26934f3d47089fa6da091e0c97c3",
+      "title": "SOS in un tocco: una situazione concreta, raccontata con calma",
+      "topic": "sos",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "Ore 22:10, fermata vuota. Non succede niente, ma qualcosa non ti torna.\n\nIn quel momento sbloccare il telefono, aprire un'app e cercare un contatto sono troppi passaggi. Su Central l'SOS si attiva con un tocco, anche dalla schermata di blocco.\n\nNon è una garanzia e non sostituisce i soccorsi: in caso di pericolo immediato chiama sempre il 112. Serve ad accorciare i tempi quando vuoi avvisare qualcuno.\n\nA chi lo manderesti per primo? Mandalo a quella persona.\n\n#sicurezzapersonale #viveredasoli #tornareacasa #centralapp #sos",
+      "reddit_title": "SOS in un tocco: una situazione concreta, raccontata con calma",
+      "due_at": "2026-11-08T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T12:27:46.169996+00:00",
+      "publish_at_local": "2026-11-08 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Con 6 post i dati non bastano per individuare un orario ottimale: scelgo una fascia serale ordinaria di domenica, simile a quella del reel con più reach, lontana almeno 12 ore da tutti i post in coda (ultimo il 6/11 alle 20:00 ora di Roma).",
+      "strategy_reason": "Il reel su una situazione concreta (11 ottobre) ha avuto la reach e le condivisioni più alte. Il gesto chiave compare entro la terza scena e il gancio è nella prima, per lavorare sullo skip rate alto.",
+      "objective": "Reach e condivisioni presso un pubblico nuovo",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Ore 22:10. Fermata vuota.",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Qualcosa non ti torna.",
+                "size": "body",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Sbloccare, aprire l'app, cercare il contatto...",
+                "size": "body",
+                "animation": "typewriter"
+              },
+              {
+                "text": "Troppi passaggi, proprio adesso.",
+                "size": "title",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#1F3560",
+              "#2E4A80"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Su Central l'SOS parte con un tocco.",
+                "size": "title",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Anche dalla schermata di blocco.",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#1F3560",
+              "#2E4A80"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "In pericolo immediato, chiama sempre il 112.",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "A chi lo manderesti per primo?",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Mandalo a quella persona.",
+                "size": "body",
+                "animation": "slide_up"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Cosa succede esattamente dopo il tocco: chi riceve l'avviso e con quali informazioni (posizione? messaggio?)",
+        "Se l'attivazione dalla schermata di blocco funziona sia su Android sia su iPhone",
+        "Se serve una connessione dati attiva per inviare l'SOS",
+        "Se l'SOS contatta i servizi di emergenza o solo i contatti scelti (la caption e il video non lo dicono di proposito)"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\821a26934f3d47089fa6da091e0c97c3\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/821a26934f3d47089fa6da091e0c97c3/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/821a26934f3d47089fa6da091e0c97c3/reel.mp4"
+    },
+    {
+      "id": "9d8e26a43fad409ea7c56c7487b9969d",
+      "title": "Chi può leggere i tuoi messaggi? Le chat cifrate spiegate in poche slide",
+      "topic": "chat_cifrate",
+      "platform": "instagram",
+      "format": "carousel",
+      "caption": "Chi può leggere questo messaggio? È una domanda semplice e merita una risposta chiara.\n\nSu Central messaggi, foto e chiamate sono cifrati end-to-end: li leggono solo le persone della conversazione. Niente pubblicità e nessun dato venduto.\n\nLa cifratura però ha dei limiti, e nelle slide trovi anche quelli: un telefono sbloccato in mano ad altri resta un telefono sbloccato.\n\nSalvalo per quando qualcuno ti chiede cosa vuol dire \"cifrato end-to-end\".\n\n#privacy #crittografia #chat #sicurezzadigitale #centralapp",
+      "reddit_title": "Chi può leggere i tuoi messaggi? Le chat cifrate spiegate in poche slide",
+      "media_url": null,
+      "due_at": "2026-11-10T19:00:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T12:27:46.169996+00:00",
+      "publish_at_local": "2026-11-10 20:00",
+      "schedule_source": "claude",
+      "schedule_reason": "Con pochi post e un solo contenuto in feed non c'è un orario migliore dimostrabile: scelgo una fascia serale ordinaria di martedì, distanziata di almeno 12 ore dal reel SOS dell'8 novembre.",
+      "strategy_reason": "Argomento mai usato. Il carosello è un formato non ancora pubblicato e permette di misurare i salvataggi, finora quasi a zero. Il tema 'niente pubblicità' resta secondario per non sovrapporsi al devlog del 6 novembre.",
+      "objective": "Salvataggi e fiducia: spiegare in modo semplice e corretto la cifratura end-to-end",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Chi può leggere questo messaggio?",
+          "testo": "Una domanda semplice, che merita una risposta chiara. Ecco come funziona su Central."
+        },
+        {
+          "slide": 2,
+          "titolo": "Tu e chi lo riceve",
+          "testo": "Su Central messaggi, foto e chiamate sono cifrati end-to-end: li leggono solo le persone della conversazione."
+        },
+        {
+          "slide": 3,
+          "titolo": "Cosa vuol dire end-to-end",
+          "testo": "In generale: il contenuto è cifrato sul telefono di chi scrive e torna leggibile solo su quello di chi riceve."
+        },
+        {
+          "slide": 4,
+          "titolo": "Niente pubblicità",
+          "testo": "Su Central non ci sono annunci e nessun dato viene venduto."
+        },
+        {
+          "slide": 5,
+          "titolo": "Cosa la cifratura non fa",
+          "testo": "Non protegge un telefono sbloccato lasciato in mano ad altri, né gli screenshot fatti da chi riceve."
+        },
+        {
+          "slide": 6,
+          "titolo": "Qualche abitudine utile",
+          "testo": "Blocco schermo con codice, aggiornamenti installati e attenzione a chi presti il telefono."
+        },
+        {
+          "slide": 7,
+          "titolo": "Hai un dubbio?",
+          "testo": "Scrivilo nei commenti. Proviamo a rispondere in modo semplice."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Che la cifratura end-to-end copra davvero messaggi, foto e chiamate in tutti i casi (anche nei gruppi e su iPhone)",
+        "Se i backup o le copie sul server sono anch'essi cifrati",
+        "Quali metadati (per esempio chi scrive a chi e quando) restano visibili al server",
+        "Che lo sviluppatore tecnicamente non possa leggere i contenuti (nel testo uso solo la formula nota 'li leggono solo le persone della conversazione')"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_01.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_02.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_03.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_04.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_05.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_06.jpg",
+        "output\\media\\9d8e26a43fad409ea7c56c7487b9969d\\slide_07.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_01.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_02.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_03.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_04.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_05.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_06.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_07.jpg"
+      ]
+    },
+    {
+      "id": "96ceb0241a9044b68ac315eeefef40b9",
+      "title": "Central è anche su iPhone: dove scaricarla, chiaramente",
+      "topic": "iphone",
+      "platform": "instagram",
+      "format": "post",
+      "caption": "Finora vi abbiamo parlato soprattutto di Android. Lo chiariamo: Central è disponibile anche su App Store, per iPhone.\n\nChat, social e sicurezza personale nella stessa app, anche dal tuo iPhone.\n\nHai un iPhone? Il link è in bio.\n\n#iphone #appstore #centralapp #app",
+      "reddit_title": "Central è anche su iPhone: dove scaricarla, chiaramente",
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/96ceb0241a9044b68ac315eeefef40b9/slide_01.jpg",
+      "due_at": "2026-11-05T19:00:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T12:27:46.169996+00:00",
+      "publish_at_local": "2026-11-05 20:00",
+      "schedule_source": "claude",
+      "schedule_reason": "È il primo spazio libero con almeno 12 ore di distanza dai post in coda (4/11 alle 20:30 e 6/11 alle 20:00 ora di Roma). La fascia serale è una scelta ordinaria, perché 6 post non bastano per stabilire un orario migliore. Lascia anche qualche giorno per verificare il link App Store.",
+      "strategy_reason": "Quattro contenuti su sei e tutta la coda indicano solo Google Play/Android. L'argomento iphone non è mai stato usato e il post feed sul check-in ha avuto una reach comparabile ai reel: per un messaggio informativo basta il feed.",
+      "objective": "Chiarezza informativa e conversione: correggere l'impressione che Central sia solo per Android",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Central è anche su iPhone",
+          "testo": "La trovi su App Store. Il link è in bio."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Che l'app sia effettivamente pubblicata su App Store e scaricabile in Italia (e da quando)",
+        "Se la versione iPhone ha le stesse funzioni di quella Android o alcune mancano (per questo la caption non elenca funzioni specifiche)",
+        "Se anche su iPhone l'app è in beta e gratuita",
+        "Che il link in bio porti anche alla pagina App Store, o a una pagina con entrambi gli store"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\96ceb0241a9044b68ac315eeefef40b9\\slide_01.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/96ceb0241a9044b68ac315eeefef40b9/slide_01.jpg"
+      ]
+    },
+    {
+      "id": "e5d35e1ee63344f0bbb9644177a9f1dc",
+      "title": "Devlog: perché Central parla sei lingue, albanese compreso",
+      "topic": "lingue",
+      "platform": "instagram",
+      "format": "devlog",
+      "caption": "Un piccolo aggiornamento da chi costruisce Central.\n\nOggi l'app è tradotta in sei lingue: italiano, inglese, spagnolo, francese, tedesco e albanese.\n\nTradurre un'app non vuol dire solo cambiare parole. Un pulsante, un avviso o un messaggio di sicurezza devono suonare naturali per chi li legge, nella lingua con cui pensa.\n\nOra vorrei sapere da voi: in che lingua scrivi con la tua famiglia? E quale lingua manca secondo te? Rispondo a tutti nei commenti.\n\n#devlog #multilingue #famiglia #indiedev #centralapp",
+      "reddit_title": "Devlog: perché Central parla sei lingue, albanese compreso",
+      "media_url": null,
+      "due_at": "2026-11-12T19:00:00+00:00",
+      "status": "proposed",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T12:27:46.169996+00:00",
+      "publish_at_local": "2026-11-12 20:00",
+      "schedule_source": "claude",
+      "schedule_reason": "Arriva 6 giorni dopo il devlog del 6 novembre, così i due racconti del fondatore non si sovrappongono, e 48 ore dopo il carosello. La fascia serale è ordinaria, perché con 6 post e zero commenti non ci sono dati per un orario ottimale.",
+      "strategy_reason": "Zero commenti su tutti i contenuti: serve un formato pensato per raccogliere risposte. L'argomento lingue ha un fatto noto preciso (le sei lingue). Il motivo della scelta dell'albanese non è documentato, quindi la caption non lo inventa. Si può aggiungere una volta confermato.",
+      "objective": "Commenti e conversazione: ottenere il primo riscontro qualitativo dal pubblico",
+      "slides": [],
+      "video": null,
+      "facts_to_verify": [
+        "Il motivo reale della scelta delle sei lingue, e dell'albanese in particolare (da aggiungere alla caption solo se confermato)",
+        "Come sono state fatte le traduzioni (a mano, con revisori madrelingua, con strumenti automatici)",
+        "Se tutte le sezioni dell'app sono tradotte completamente in tutte e sei le lingue",
+        "Se la lingua si cambia nelle impostazioni dell'app o segue quella del telefono"
+      ],
+      "requires_human_fact_check": true
+    },
+    {
+      "id": "c7fc469289e94f2395d0a427feaa8d34",
+      "title": "Ci vediamo lì? La posizione condivisa solo con chi scegli tu",
+      "topic": "posizione_mappa",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "«Sono vicino alla fontana.» Quale fontana?\n\nSabato sera, piazza piena, dieci messaggi e ancora non vi trovate. Succede a tutti.\n\nSu Central la posizione sulla mappa la vedono solo le persone che scegli tu, e le posizioni sono cifrate. Niente giri di vocali per capire dove sei.\n\nMandalo a chi perdi sempre di vista quando uscite insieme. Se vuoi vedere altri casi d'uso concreti, segui l'account: ne pubblichiamo uno alla volta.\n\n#central #amici #uscireinsieme #privacy #posizione",
+      "reddit_title": "Ci vediamo lì? La posizione condivisa solo con chi scegli tu",
+      "due_at": "2026-11-09T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:06:48.915861+00:00",
+      "publish_at_local": "2026-11-09 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Con solo 6 contenuti pubblicati i dati non bastano per scegliere un orario ottimale. Il reel con più copertura è uscito di sera (domenica 20:50), ma è un solo caso. Scelgo una fascia serale ordinaria, il primo giorno libero con almeno 12 ore di distanza dai post in coda dell'8 e del 10 novembre.",
+      "strategy_reason": "Il reel dell'11 ottobre, con una scena concreta, ora e luogo, ha avuto 634 di copertura e 10 condivisioni, più di tutti gli altri contenuti. Si riprende lo stesso schema su un argomento mai usato e si apre subito sulla scena, visto che il tasso di salto dei reel è alto (79-90%).",
+      "objective": "Copertura e condivisioni: verificare se la scena concreta funziona anche su un argomento diverso da Viaggia sicuro",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "«Sono vicino alla fontana»",
+                "size": "title",
+                "animation": "typewriter"
+              },
+              {
+                "text": "Quale fontana?",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#0B1530",
+              "#2A3F73"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Sabato sera. Piazza piena.",
+                "size": "title",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Dieci messaggi e ancora non vi trovate.",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#13224A",
+              "#1F3560"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "La tua posizione sulla mappa",
+                "size": "title",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Solo per le persone che scegli tu.",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Le posizioni sono cifrate",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Le vedono solo le persone che scegli.",
+                "size": "body",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#1F3560",
+              "#0B1530"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Central",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Mandalo a chi perdi sempre di vista",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Differenza reale tra la posizione condivisa sulla mappa e Viaggia sicuro, per non sovrapporre i messaggi",
+        "Se la condivisione è continua, a tempo o attivabile e disattivabile dall'utente, e come la si interrompe (il testo non ne parla finché non è confermato)",
+        "Conferma della frase 'le posizioni sono cifrate: le vedono solo le persone che scegli', con quale tipo di cifratura",
+        "Piattaforme su cui l'app è disponibile (Android, iPhone) da citare nella CTA o nella bio"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\c7fc469289e94f2395d0a427feaa8d34\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/c7fc469289e94f2395d0a427feaa8d34/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/c7fc469289e94f2395d0a427feaa8d34/reel.mp4"
+    },
+    {
+      "id": "c5c858cac9ca4c87b57b75d92e29211c",
+      "title": "Chi sono i Guardian (e cosa possono vedere)",
+      "topic": "guardian",
+      "platform": "instagram",
+      "format": "carousel",
+      "caption": "C'è sempre una persona a cui scrivi «sono arrivata» o «tutto ok». A volte è un genitore, a volte un'amica, a volte il coinquilino.\n\nIn questo carosello: come scegliere la persona giusta e quali domande farsi prima. I dettagli su cosa vede un Guardian e sul pannello web li spieghiamo in un post dedicato, con le informazioni precise, invece di dirli a metà.\n\nSalvalo e mandalo alla persona che sceglieresti come Guardian.\n\n#central #famiglia #sicurezzapersonale #fiducia #viveredasoli",
+      "reddit_title": "Chi sono i Guardian (e cosa possono vedere)",
+      "media_url": null,
+      "due_at": "2026-11-11T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:06:48.915861+00:00",
+      "publish_at_local": "2026-11-11 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "I dati sono troppo pochi (6 contenuti) per individuare un orario migliore. Scelgo una fascia serale ordinaria in un giorno senza post in coda, ad almeno 12 ore dai post del 10 e del 12 novembre.",
+      "strategy_reason": "Il pubblico ha risposto meglio ai contenuti sulla sicurezza in famiglia (222 di copertura per il post sul check-in) che a quelli sul gioco (52 e 84). L'argomento non è mai stato usato. Non ci sono fatti noti, quindi le slide parlano di come scegliere una persona di fiducia e rimandano il funzionamento a un contenuto da scrivere dopo le verifiche.",
+      "objective": "Salvataggi ed educazione: spiegare il ruolo della persona di fiducia senza dichiarare funzioni non confermate",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "La persona a cui scrivi «sono a casa»",
+          "testo": "Quasi tutti ne abbiamo una. Un genitore, un'amica, un fratello. In Central questo ruolo ha un nome: Guardian."
+        },
+        {
+          "slide": 2,
+          "titolo": "Prima domanda: chi risponde davvero?",
+          "testo": "Non serve la persona più vicina, serve quella che legge i messaggi e sa cosa fare se qualcosa non torna."
+        },
+        {
+          "slide": 3,
+          "titolo": "Seconda domanda: ne parlate prima?",
+          "testo": "Diglielo. Una persona di fiducia funziona meglio se sa di esserlo e sa cosa ti aspetti da lei."
+        },
+        {
+          "slide": 4,
+          "titolo": "Terza domanda: cosa vuoi condividere?",
+          "testo": "Fiducia non vuol dire mostrare tutto. Decidi tu cosa è utile che sappia e cosa no."
+        },
+        {
+          "slide": 5,
+          "titolo": "Cosa vede un Guardian, nel dettaglio",
+          "testo": "Lo spieghiamo punto per punto in un post dedicato, insieme al pannello web. Meglio informazioni precise che a metà."
+        },
+        {
+          "slide": 6,
+          "titolo": "Ora pensaci",
+          "testo": "Chi sceglieresti come Guardian? Salva questo post e mandalo a quella persona."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Che nell'app la persona di fiducia si chiami davvero 'Guardian' (citato nella slide 1)",
+        "Cos'è esattamente un Guardian nell'app e come lo si aggiunge o rimuove",
+        "Quali dati vede un Guardian (posizione, SOS, check-in, altro) e se l'utente può limitarli: la slide 4 dice 'decidi tu', da togliere se non è vero",
+        "Cosa permette di fare il pannello web, chi può accedervi e come",
+        "Se il Guardian deve avere l'app installata o può usare solo il pannello web",
+        "Se la funzione è gratuita o Premium",
+        "Collegamento con SOS, Viaggia sicuro e check-in, da citare solo se confermato"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_01.jpg",
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_02.jpg",
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_03.jpg",
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_04.jpg",
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_05.jpg",
+        "output\\media\\c5c858cac9ca4c87b57b75d92e29211c\\slide_06.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_01.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_02.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_03.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_04.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_05.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_06.jpg"
+      ]
+    },
+    {
+      "id": "a7b5ee93f4e842b5bae97ebbdba1a1ed",
+      "title": "Il gruppo di famiglia, senza pubblicità e con messaggi cifrati",
+      "topic": "chat_gruppo",
+      "platform": "instagram",
+      "format": "post",
+      "caption": "Il gruppo di famiglia non è solo buongiorno e foto del pranzo. È dove si scrive dell'appuntamento dal medico, di chi passa a prendere le chiavi, di come sta la nonna.\n\nSu Central le chat di gruppo sono cifrate. Le cose personali restano tra le persone del gruppo.\n\nDomanda veloce: il vostro gruppo di famiglia è più da vocali o da messaggi scritti? Rispondi con una parola.\n\n#central #famiglia #chatdigruppo #privacy #messaggi",
+      "reddit_title": "Il gruppo di famiglia, senza pubblicità e con messaggi cifrati",
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/a7b5ee93f4e842b5bae97ebbdba1a1ed/slide_01.jpg",
+      "due_at": "2026-11-07T19:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:06:48.915861+00:00",
+      "publish_at_local": "2026-11-07 20:30",
+      "schedule_source": "claude",
+      "schedule_reason": "Con 6 contenuti i dati non indicano un orario ottimale, quindi scelgo una fascia serale ordinaria di sabato, giorno senza post in coda. Così resta a 3 giorni dal carosello sulla cifratura del 10 novembre e ad almeno 12 ore dai post del 6 e dell'8 novembre.",
+      "strategy_reason": "È l'unico argomento selezionato con un fatto noto ('le chat di gruppo sono cifrate'). I post feed con una scena familiare hanno avuto risultati discreti (222 di copertura). La domanda chiusa prova a superare gli 0 commenti finora ricevuti. Il titolo del piano cita la pubblicità, ma non è un fatto noto, quindi non compare nel testo.",
+      "objective": "Interazioni e condivisioni verso un gruppo reale: posizionare Central per le chat di gruppo con le persone che contano",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Il gruppo di famiglia è dove si dicono le cose vere",
+          "testo": "Visite mediche, chiavi di casa, come sta la nonna. Su Central le chat di gruppo sono cifrate."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Conferma che le chat di gruppo sono cifrate end-to-end e non solo durante il trasferimento: il testo dice solo 'cifrate' e 'restano tra le persone del gruppo', da correggere se non è esatto",
+        "Assenza di pubblicità nell'app, citata nel titolo del piano ma non nel testo: aggiungerla solo se confermata",
+        "Numero massimo di partecipanti per gruppo, se lo si cita",
+        "Funzioni del gruppo da mostrare nell'immagine (foto, vocali, chiamate di gruppo), solo se esistono: la domanda sui vocali non implica che l'app li abbia",
+        "Coerenza con il carosello sulla cifratura del 10 novembre, per non contraddirlo"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\a7b5ee93f4e842b5bae97ebbdba1a1ed\\slide_01.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/a7b5ee93f4e842b5bae97ebbdba1a1ed/slide_01.jpg"
+      ]
+    },
+    {
+      "id": "71f028e6eb0d45ac83289cff75306774",
+      "title": "Devlog: perché ho aggiunto i messaggi programmati",
+      "topic": "messaggi_programmati",
+      "platform": "instagram",
+      "format": "devlog",
+      "caption": "Devlog: i messaggi programmati.\n\nQuesta settimana vi racconto una funzione piccola, di quelle che non finiscono nei titoli: i messaggi che partono all'orario scelto.\n\nPerché l'ho fatta: [motivazione reale da scrivere dallo sviluppatore].\n\nGli usi a cui pensavo: gli auguri a mezzanotte senza restare svegli, un promemoria per i miei, un messaggio che arriva all'ora giusta invece che quando me ne ricordo.\n\nCosa è stato difficile e cosa manca ancora: [da completare con limiti e problemi aperti reali].\n\nVi chiedo una cosa sola: lo usereste di più per gli auguri o per i promemoria? Rispondo a tutti nei commenti.\n\n#central #devlog #sviluppoapp #indiedev #messaggi",
+      "reddit_title": "Devlog: perché ho aggiunto i messaggi programmati",
+      "media_url": null,
+      "due_at": "2026-11-13T19:00:00+00:00",
+      "status": "proposed",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:06:48.915861+00:00",
+      "publish_at_local": "2026-11-13 20:00",
+      "schedule_source": "claude",
+      "schedule_reason": "I dati (6 contenuti) non bastano per un orario ottimale, quindi scelgo una fascia serale ordinaria di venerdì. È l'ultimo giorno libero nella finestra, dopo i devlog già in coda, e resta ad almeno 12 ore dal post del 12 novembre.",
+      "strategy_reason": "Argomento mai usato. Nessun devlog pubblicato ha metriche separate, quindi questo esce dopo quelli in coda per poterli misurare prima. Non ci sono fatti noti: motivazione, difficoltà e limiti sono segnaposto che deve compilare lo sviluppatore, e il testo non dichiara come funziona la funzione. La domanda a scelta prova a superare gli 0 commenti.",
+      "objective": "Fiducia e commenti: mostrare come nasce una decisione di prodotto e raccogliere riscontri concreti sull'uso",
+      "slides": [],
+      "video": null,
+      "facts_to_verify": [
+        "Come funzionano i messaggi programmati: dove si impostano, se si possono modificare o annullare, se funzionano anche nei gruppi",
+        "Se il messaggio parte anche con il telefono spento o senza connessione, oppure no",
+        "Se i messaggi programmati sono cifrati come gli altri",
+        "Motivazione reale dietro la funzione, raccontata dallo sviluppatore e non inventata (segnaposto nel testo)",
+        "Limiti noti o problemi aperti della funzione in beta (segnaposto nel testo)",
+        "Che gli usi citati (auguri a mezzanotte, promemoria) siano davvero possibili con la funzione attuale"
+      ],
+      "requires_human_fact_check": true
+    },
+    {
+      "id": "85567d18e77644b996c18a9d4a1dcddb",
+      "title": "Zone: un avviso legato ai luoghi che scegli tu",
+      "topic": "geofence",
+      "platform": "instagram",
+      "format": "carousel",
+      "caption": "La scuola, l'ufficio, casa: ci sono luoghi che tornano ogni giorno nella vita di una famiglia.\n\nIn Central puoi scegliere delle zone, cioè dei luoghi a cui collegare degli avvisi. In questo carosello trovi l'idea di base, spiegata in poche slide. Chi riceve l'avviso, in quali casi e con quali impostazioni lo racconteremo solo quando sarà confermato.\n\nUna precisazione: le zone non sono Viaggia sicuro. Viaggia sicuro riguarda un tragitto, le zone riguardano luoghi fissi.\n\nSalvalo o mandalo alla persona con cui lo useresti.\n\n#central #famiglia #sicurezzapersonale #geofence #app",
+      "reddit_title": "Zone: un avviso legato ai luoghi che scegli tu",
+      "media_url": null,
+      "due_at": "2026-11-02T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-02 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Con 6 post i dati non bastano per trovare un orario ottimale, quindi scelgo una fascia serale ordinaria. Il valore più alto (634 account, dom 20:50) è un caso singolo. Questo slot coincide con una proposta già in coda (19:30 UTC), che va archiviata o spostata per rispettare un post al giorno e le 12 ore di distanza. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "L'argomento non è mai stato usato. Il post feed spiegato passo per passo dell'8 ottobre (222 account raggiunti) fa pensare che una funzione concreta in formato 'come funziona' possa reggere anche fuori dai reel.",
+      "objective": "Far conoscere una funzione mai comunicata e ottenere salvataggi",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Zone: avvisi legati ai luoghi che scegli tu",
+          "testo": "Una funzione di Central pensata per i posti che fanno parte della tua giornata."
+        },
+        {
+          "slide": 2,
+          "titolo": "Un esempio semplice",
+          "testo": "La scuola dei figli, l'ufficio, casa: luoghi fissi che tornano ogni giorno."
+        },
+        {
+          "slide": 3,
+          "titolo": "Cosa sono le zone",
+          "testo": "Luoghi scelti da te, a cui Central collega degli avvisi."
+        },
+        {
+          "slide": 4,
+          "titolo": "Non è Viaggia sicuro",
+          "testo": "Viaggia sicuro riguarda un tragitto. Le zone riguardano luoghi fissi."
+        },
+        {
+          "slide": 5,
+          "titolo": "Quale luogo sceglieresti per primo?",
+          "testo": "Salvalo o mandalo alla persona con cui useresti le zone."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Come si crea una zona e chi la vede",
+        "Chi riceve l'avviso e in quali casi (ingresso, uscita, entrambi)",
+        "Se le zone sono cifrate o protette come le posizioni",
+        "Se la funzione è gratuita o Premium",
+        "Se è disponibile su Android e iPhone"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\85567d18e77644b996c18a9d4a1dcddb\\slide_01.jpg",
+        "output\\media\\85567d18e77644b996c18a9d4a1dcddb\\slide_02.jpg",
+        "output\\media\\85567d18e77644b996c18a9d4a1dcddb\\slide_03.jpg",
+        "output\\media\\85567d18e77644b996c18a9d4a1dcddb\\slide_04.jpg",
+        "output\\media\\85567d18e77644b996c18a9d4a1dcddb\\slide_05.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_01.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_02.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_03.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_04.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_05.jpg"
+      ]
+    },
+    {
+      "id": "d959ed185a7e4e2bbefe67937b32b7e5",
+      "title": "Central City: un orto da far crescere (illustrazione animata)",
+      "topic": "central_city_orto",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "Un seme, un po' di pazienza, una piantina che cresce.\n\nIn Central City, che fa parte dell'app Central, si può coltivare l'orto.\n\nNota: il reel è un'illustrazione animata originale. Non è una schermata e non è il gioco reale.\n\nCosa pianteresti per primo? Scrivilo nei commenti.\n\n#centralcity #orto #central #giochi #relax",
+      "reddit_title": "Central City: un orto da far crescere (illustrazione animata)",
+      "due_at": "2026-11-03T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-03 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Pochi dati: scelgo una fascia serale ordinaria, 24 ore dopo il post precedente. C'è sovrapposizione con la proposta in coda del 2 novembre (19:30 UTC), da archiviare o spostare. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "Il reel su Central City del 14 ottobre, che citava anche l'orto, ha lo skip rate più basso del set (42,3%) e 1 salvataggio. È un indizio debole su un campione minimo. Qui c'è un solo tema invece di un elenco.",
+      "objective": "Coinvolgere con un contenuto leggero e osservare il tempo di visione",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#12301F",
+              "#2E6B3F"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Un seme. Un po' di pazienza.",
+                "size": "title",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#1E4D2B",
+              "#4C8C3A"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "In Central City puoi coltivare l'orto",
+                "size": "title",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Una parte dell'app Central",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#2B4A2F",
+              "#6E9E4F"
+            ],
+            "effect": "rain",
+            "lines": [
+              {
+                "text": "Una piantina che cresce, una fila alla volta",
+                "size": "body",
+                "animation": "typewriter"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Cosa pianteresti per primo?",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Illustrazione animata, non è il gioco reale",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Cosa si può coltivare concretamente nell'orto",
+        "Se Central City è gratuita (claim usato in passato ma non tra i fatti noti)",
+        "Su quali piattaforme è disponibile Central City"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\d959ed185a7e4e2bbefe67937b32b7e5\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/d959ed185a7e4e2bbefe67937b32b7e5/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/d959ed185a7e4e2bbefe67937b32b7e5/reel.mp4"
+    },
+    {
+      "id": "111f78526bb441d5b4ffcdc0d47ebf0f",
+      "title": "Devlog: perché ho deciso di costruire Central, da una persona sola, in Italia",
+      "topic": "dietro_le_quinte",
+      "platform": "instagram",
+      "format": "devlog",
+      "caption": "Central la sviluppo io: una persona sola, in Italia.\n\n[DA SCRIVERE DALLO SVILUPPATORE: il motivo reale per cui è nata Central, in due o tre frasi. Non va inventato.]\n\n[DA COMPLETARE DOPO VERIFICA: da quanto tempo è in sviluppo e in che stato è oggi l'app.]\n\nNon ho un team né un reparto marketing. Questo account è anche il mio modo di raccontare il progetto mentre cresce, e di capire cosa serve davvero a chi lo usa.\n\nC'è una funzione che vorresti trovare in Central? Rispondo a tutti nei commenti.\n\n#devlog #indiedev #madeinitaly #app #central",
+      "reddit_title": "Devlog: perché ho deciso di costruire Central, da una persona sola, in Italia",
+      "media_url": null,
+      "due_at": "2026-11-14T17:30:00+00:00",
+      "status": "proposed",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-14 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Con pochi post non c'è un orario ottimale dimostrato: fascia serale ordinaria. La proposta in coda del 3 novembre (18:00 UTC, 19:00 a Roma) è a meno di 12 ore e va archiviata o spostata. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "Il post di presentazione del 6 ottobre ha raggiunto 34 account, ma era il primo post e metteva insieme molte funzioni, quindi non basta per giudicare il tema. Lo riproviamo con un solo racconto personale e una domanda diretta, perché finora i commenti sono zero.",
+      "objective": "Creare fiducia e provare a ottenere i primi commenti",
+      "slides": [],
+      "video": null,
+      "facts_to_verify": [
+        "La motivazione reale da cui è nata Central (va scritta dallo sviluppatore)",
+        "Da quanto tempo è in sviluppo",
+        "Lo stato attuale dell'app (beta o no) da dichiarare"
+      ],
+      "requires_human_fact_check": true
+    },
+    {
+      "id": "d99725115b754d918529b2b3edf29cc9",
+      "title": "Central City: che mestiere proveresti? (illustrazioni)",
+      "topic": "central_city_professioni",
+      "platform": "instagram",
+      "format": "carousel",
+      "caption": "Se potessi provare un mestiere diverso dal tuo, quale sceglieresti?\n\nIn Central City, che fa parte dell'app Central, si possono provare le professioni.\n\nNota: le immagini di questo carosello sono illustrazioni originali, non schermate né gameplay reale.\n\nQuale mestiere sceglieresti? Mandalo a chi farebbe quello opposto.\n\n#centralcity #professioni #central #giochi #lavoro",
+      "reddit_title": "Central City: che mestiere proveresti? (illustrazioni)",
+      "media_url": null,
+      "due_at": "2026-11-15T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-15 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Pochi dati: fascia serale ordinaria, 24 ore dopo il post precedente. Coincide con la proposta in coda del 4 novembre (19:30 UTC), da archiviare o spostare. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "Un carousel serve a capire se Central City funziona meglio come contenuto da sfogliare, visto che i due reel sul tema hanno raggiunto poche persone (84 e 52 account). Le condivisioni sono la metrica più viva dell'account, e una domanda a scelta può favorirle.",
+      "objective": "Generare interazioni (commenti e condivisioni) con un tema leggero",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Central City: che mestiere proveresti?",
+          "testo": "In Central City, una parte dell'app Central, si possono provare le professioni."
+        },
+        {
+          "slide": 2,
+          "titolo": "Queste sono illustrazioni",
+          "testo": "Le immagini di questo carosello sono grafiche originali, non schermate del gioco."
+        },
+        {
+          "slide": 3,
+          "titolo": "[PROFESSIONE 1 DA CONFERMARE]",
+          "testo": "Slide da completare con il nome di una professione presente in Central City, dopo verifica."
+        },
+        {
+          "slide": 4,
+          "titolo": "[PROFESSIONE 2 DA CONFERMARE]",
+          "testo": "Slide da completare con il nome di una professione presente in Central City, dopo verifica."
+        },
+        {
+          "slide": 5,
+          "titolo": "[PROFESSIONE 3 DA CONFERMARE]",
+          "testo": "Slide da completare con il nome di una professione presente in Central City, dopo verifica."
+        },
+        {
+          "slide": 6,
+          "titolo": "E tu quale proveresti?",
+          "testo": "Scrivilo nei commenti, o mandalo a chi farebbe il mestiere opposto al tuo."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Elenco esatto delle professioni presenti in Central City",
+        "Cosa si fa concretamente in ciascuna professione",
+        "Se ci sono limiti (Premium, livelli, disponibilità per piattaforma)"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_01.jpg",
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_02.jpg",
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_03.jpg",
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_04.jpg",
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_05.jpg",
+        "output\\media\\d99725115b754d918529b2b3edf29cc9\\slide_06.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_01.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_02.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_03.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_04.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_05.jpg",
+        "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_06.jpg"
+      ]
+    },
+    {
+      "id": "a20234953fbc41d3983b92d46b70b6e0",
+      "title": "Temi: Central con l'aspetto che preferisci",
+      "topic": "temi",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "La stessa app, un aspetto diverso.\n\nCentral ha dei temi grafici tra cui scegliere. Quanti sono e come si attivano lo racconteremo appena confermato.\n\nNota: il reel è una grafica animata illustrativa, non contiene schermate reali dell'app.\n\nE tu, nelle app che usi ogni giorno: chiaro o scuro? Rispondi con una parola.\n\n#central #temi #design #app #personalizzazione",
+      "reddit_title": "Temi: Central con l'aspetto che preferisci",
+      "due_at": "2026-11-16T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-16 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Pochi dati: fascia serale ordinaria. Il reel del venerdì alle 19:55 (203 account) è un caso singolo e non dimostra nulla sull'orario. La proposta in coda del 5 novembre (19:00 UTC) è a meno di 12 ore e va archiviata o spostata. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "Lo skip rate dei reel è alto (79-90% in 3 su 4). Un cambiamento visivo evidente nei primi secondi è un test sensato. È un'ipotesi, non un risultato atteso.",
+      "objective": "Aumentare la copertura con un contenuto visivo e immediato",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Stessa app. Un altro aspetto.",
+                "size": "title",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#F4F1EA",
+              "#E2D9C8"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Central ha dei temi grafici",
+                "size": "title",
+                "animation": "slide_up"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#1B3A2F",
+              "#2E5E4A"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Scegli quello che senti più tuo",
+                "size": "body",
+                "animation": "typewriter"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#3A1F4D",
+              "#6B3E8C"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Chiaro o scuro? Rispondi con una parola",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Grafica illustrativa, non schermate reali",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Quanti e quali temi esistono",
+        "Se i temi sono gratuiti o Premium",
+        "Se esiste un tema scuro",
+        "Se ci sono schermate reali utilizzabili o servono grafiche illustrative"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\a20234953fbc41d3983b92d46b70b6e0\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/a20234953fbc41d3983b92d46b70b6e0/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/a20234953fbc41d3983b92d46b70b6e0/reel.mp4"
+    },
+    {
+      "id": "fcab40fe24f64d42ac225ffd1f8a703b",
+      "title": "La tua galleria personale dentro Central",
+      "topic": "galleria",
+      "platform": "instagram",
+      "format": "post",
+      "caption": "Le foto che vuoi ritrovare, in un posto solo.\n\nIn Central c'è una galleria personale, dentro l'app. Per ora diciamo solo questo. Chi può vederla, quanto spazio c'è e come sono protette le foto lo scriveremo solo dopo una conferma.\n\nMandalo a chi ti chiede sempre di rimandargli le foto.\n\n#central #galleria #foto #famiglia #app",
+      "reddit_title": "La tua galleria personale dentro Central",
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/fcab40fe24f64d42ac225ffd1f8a703b/slide_01.jpg",
+      "due_at": "2026-11-17T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-17 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Pochi dati, e il post feed serale del martedì (21:44) ha raggiunto solo 34 account: non si può concludere nulla sull'orario, quindi resto su una fascia serale ordinaria. La proposta in coda del 6 novembre (19:00 UTC) va archiviata o spostata. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "L'argomento non è mai stato usato. Un post singolo dopo carousel e reel aggiunge un dato sul formato feed, di cui finora ci sono solo 2 esempi.",
+      "objective": "Far conoscere una funzione poco nota con un messaggio semplice",
+      "slides": [
+        {
+          "slide": 1,
+          "titolo": "Le tue foto, in un posto dentro Central",
+          "testo": "Central ha una galleria personale dentro l'app. Come funziona nel dettaglio lo raccontiamo appena confermato."
+        }
+      ],
+      "video": null,
+      "facts_to_verify": [
+        "Cosa contiene la galleria e chi può vederla",
+        "Se le foto della galleria sono cifrate",
+        "Se ci sono limiti di spazio o differenze tra gratuito e Premium",
+        "Differenza tra galleria personale e foto inviate in chat"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\fcab40fe24f64d42ac225ffd1f8a703b\\slide_01.jpg"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/fcab40fe24f64d42ac225ffd1f8a703b/slide_01.jpg"
+      ]
+    },
+    {
+      "id": "5f8faa667c7f4ce4bf7b5992c6b94a8c",
+      "title": "Central City: un minigioco da fare in pausa (illustrazione animata)",
+      "topic": "central_city_minigiochi",
+      "platform": "instagram",
+      "format": "reel",
+      "caption": "Hai cinque minuti di pausa?\n\nIn Central City, che fa parte dell'app Central, ci sono minigiochi.\n\nNota: il reel è un'illustrazione animata originale. Non è una schermata e non è il gioco reale.\n\nSfida un amico: mandagli questo reel.\n\n#centralcity #minigiochi #central #giochi #pausa",
+      "reddit_title": "Central City: un minigioco da fare in pausa (illustrazione animata)",
+      "due_at": "2026-11-18T17:30:00+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_error": null,
+      "published_url": null,
+      "provider_id": null,
+      "generated_at": "2026-10-31T17:22:20.351771+00:00",
+      "publish_at_local": "2026-11-18 18:30",
+      "schedule_source": "fallback",
+      "schedule_reason": "Pochi dati: fascia serale ordinaria, alla stessa ora dei giorni precedenti, così il confronto tra formati è più pulito. Coincide con la proposta in coda del 7 novembre (19:30 UTC), da archiviare o spostare. [Troppo vicino a un altro post (meno di 12 ore): usato lo slot di riserva.]",
+      "strategy_reason": "Il reel del 18 ottobre, che citava anche i minigiochi, ha raggiunto 84 account con skip rate al 79,1%. Rifare il tema con un'apertura più concentrata permette un confronto indicativo, tenendo conto che contano anche giorno e orario.",
+      "objective": "Chiudere la settimana con un contenuto leggero, misurando lo skip rate rispetto al reel del 18 ottobre",
+      "slides": [],
+      "video": {
+        "scenes": [
+          {
+            "duration": 3,
+            "background": [
+              "#2A1450",
+              "#4B2A8A"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Hai cinque minuti?",
+                "size": "title",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#1F3560",
+              "#3E6BB0"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "In Central City ci sono minigiochi",
+                "size": "title",
+                "animation": "slide_up"
+              },
+              {
+                "text": "Una parte dell'app Central",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          },
+          {
+            "duration": 4,
+            "background": [
+              "#4D1F3A",
+              "#8C3E6B"
+            ],
+            "effect": "none",
+            "lines": [
+              {
+                "text": "Una pausa breve, dentro la stessa app",
+                "size": "body",
+                "animation": "typewriter"
+              }
+            ]
+          },
+          {
+            "duration": 3,
+            "background": [
+              "#0B1530",
+              "#1F3560"
+            ],
+            "effect": "stars",
+            "lines": [
+              {
+                "text": "Sfida un amico: mandagli questo reel",
+                "size": "title",
+                "animation": "fade"
+              },
+              {
+                "text": "Illustrazione animata, non è il gioco reale",
+                "size": "body",
+                "animation": "fade"
+              }
+            ]
+          }
+        ]
+      },
+      "facts_to_verify": [
+        "Quali minigiochi esistono e come si giocano",
+        "Se si può giocare con gli amici (citato a ottobre ma non tra i fatti noti)",
+        "Se Central City è gratuita e disponibile su iPhone"
+      ],
+      "requires_human_fact_check": false,
+      "media_files": [
+        "output\\media\\5f8faa667c7f4ce4bf7b5992c6b94a8c\\reel.mp4"
+      ],
+      "media_urls": [
+        "https://central-social.s3.fr-par.scw.cloud/social/5f8faa667c7f4ce4bf7b5992c6b94a8c/reel.mp4"
+      ],
+      "media_url": "https://central-social.s3.fr-par.scw.cloud/social/5f8faa667c7f4ce4bf7b5992c6b94a8c/reel.mp4"
+    }
+  ]
 }
