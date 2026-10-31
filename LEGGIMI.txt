@@ -1,0 +1,25 @@
+REPOSITORY GITHUB - SOLO LA PARTE CHE PUBBLICA
+
+Contiene solo i file che servono all'Action: pubblica i post approvati (status "pending") di queue.json all'orario indicato.
+Non contiene gli script che creano le bozze, le immagini e i video: quelli restano sul tuo PC.
+
+1. Estrai questo archivio in una cartella NUOVA (non sopra il progetto sul PC).
+2. Sostituisci queue.json con il TUO (quello con le bozze approvate e gli URL dei file, dopo upload_media.py).
+   Quello incluso e' vuoto: con quello l'Action non pubblica niente.
+3. Da PowerShell nella cartella:
+     git init
+     git add .
+     git status            (deve mostrare solo questi file)
+     git commit -m "Pubblicazione Instagram"
+     git branch -M main
+     git remote add origin https://github.com/TUO_UTENTE/NOME_REPO.git
+     git push -u origin main
+4. GitHub > Settings > Secrets and variables > Actions
+     Secret:    META_ACCESS_TOKEN
+     Variabili: META_IG_USER_ID, META_GRAPH_API_VERSION (v24.0), ALLOW_LIVE_PUBLISH (false finche' non hai testato)
+5. Actions > Central Social Autopilot > Run workflow > dry-run. Deve finire verde.
+6. Repository PRIVATO. Dettagli in GUIDA_GITHUB.md.
+
+Ogni volta che hai nuove bozze approvate: aggiorna queue.json in questa cartella (copiando quello del PC),
+poi git add queue.json / git commit / git push. Prima di ogni push fai git pull
+(l'Action scrive publish_state.json con l'esito dei post).
