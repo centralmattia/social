@@ -25,5 +25,14 @@
       "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_04.jpg",
       "https://central-social.s3.fr-par.scw.cloud/social/85567d18e77644b996c18a9d4a1dcddb/slide_05.jpg"
     ]
+  },
+  "eb6973d6f47a41c39f1b420bb8182f32": {
+    "status": "needs_review",
+    "attempts": 1,
+    "last_error": "TikTok con media non supportato dal publisher.",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/eb6973d6f47a41c39f1b420bb8182f32/reel.mp4"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/eb6973d6f47a41c39f1b420bb8182f32/reel.mp4"
   }
 }
