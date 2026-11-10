@@ -107,5 +107,19 @@
       "https://central-social.s3.fr-par.scw.cloud/social/c7fc469289e94f2395d0a427feaa8d34/reel.mp4"
     ],
     "media_url": "https://central-social.s3.fr-par.scw.cloud/social/c7fc469289e94f2395d0a427feaa8d34/reel.mp4"
+  },
+  "9d8e26a43fad409ea7c56c7487b9969d": {
+    "status": "pending",
+    "attempts": 1,
+    "last_error": "Meta API 9004: Only photo or video can be accepted as media type.",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_01.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_02.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_03.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_04.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_05.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_06.jpg",
+      "https://central-social.s3.fr-par.scw.cloud/social/9d8e26a43fad409ea7c56c7487b9969d/slide_07.jpg"
+    ]
   }
 }
