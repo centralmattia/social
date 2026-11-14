@@ -142,10 +142,12 @@
     ]
   },
   "575ca144552c4eba84d5c04392574101": {
-    "status": "pending",
-    "attempts": 1,
-    "last_error": "Elaborazione video fallita: ERROR",
-    "provider_container_id": "18133259095819943",
+    "status": "published",
+    "attempts": 2,
+    "provider_id": "18102502580427991",
+    "provider_status": "published",
+    "published_url": "https://www.instagram.com/reel/Dfu0Sk1Eb4A/",
+    "provider_container_id": "18133269490819943",
     "media_urls": [
       "https://central-social.s3.fr-par.scw.cloud/social/575ca144552c4eba84d5c04392574101/central-spot.mp4"
     ],
