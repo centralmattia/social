@@ -140,5 +140,15 @@
       "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_05.jpg",
       "https://central-social.s3.fr-par.scw.cloud/social/c5c858cac9ca4c87b57b75d92e29211c/slide_06.jpg"
     ]
+  },
+  "575ca144552c4eba84d5c04392574101": {
+    "status": "pending",
+    "attempts": 1,
+    "last_error": "Elaborazione video fallita: ERROR",
+    "provider_container_id": "18133259095819943",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/575ca144552c4eba84d5c04392574101/central-spot.mp4"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/575ca144552c4eba84d5c04392574101/central-spot.mp4"
   }
 }
