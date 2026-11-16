@@ -168,5 +168,17 @@
       "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_05.jpg",
       "https://central-social.s3.fr-par.scw.cloud/social/d99725115b754d918529b2b3edf29cc9/slide_06.jpg"
     ]
+  },
+  "6b1d1980d56c4fcfafc4f75674d7e7e6": {
+    "status": "published",
+    "attempts": 1,
+    "provider_id": "18641260657020021",
+    "provider_status": "published",
+    "published_url": "https://www.instagram.com/reel/Dfz_XcFmTzj/",
+    "provider_container_id": "18133898374819943",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/6b1d1980d56c4fcfafc4f75674d7e7e6/central-postino-volpe-v2.mp4"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/6b1d1980d56c4fcfafc4f75674d7e7e6/central-postino-volpe-v2.mp4"
   }
 }
