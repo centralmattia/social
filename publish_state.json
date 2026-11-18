@@ -192,5 +192,17 @@
       "https://central-social.s3.fr-par.scw.cloud/social/a20234953fbc41d3983b92d46b70b6e0/reel.mp4"
     ],
     "media_url": "https://central-social.s3.fr-par.scw.cloud/social/a20234953fbc41d3983b92d46b70b6e0/reel.mp4"
+  },
+  "5562674919bb41f194aabaece54eab20": {
+    "status": "published",
+    "attempts": 1,
+    "provider_id": "17946017934388067",
+    "provider_status": "published",
+    "published_url": "https://www.instagram.com/reel/Df5FnHzjt00/",
+    "provider_container_id": "18134392330819943",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/5562674919bb41f194aabaece54eab20/central-viaggio.mp4"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/5562674919bb41f194aabaece54eab20/central-viaggio.mp4"
   }
 }
