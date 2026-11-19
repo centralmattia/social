@@ -204,5 +204,15 @@
       "https://central-social.s3.fr-par.scw.cloud/social/5562674919bb41f194aabaece54eab20/central-viaggio.mp4"
     ],
     "media_url": "https://central-social.s3.fr-par.scw.cloud/social/5562674919bb41f194aabaece54eab20/central-viaggio.mp4"
+  },
+  "fcab40fe24f64d42ac225ffd1f8a703b": {
+    "status": "needs_review",
+    "attempts": 1,
+    "last_error": "Esito di media_publish incerto, controlla il profilo prima di riprovare: Meta API 9007: Media ID is not available",
+    "provider_container_id": "18134593867819943",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/fcab40fe24f64d42ac225ffd1f8a703b/slide_01.jpg"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/fcab40fe24f64d42ac225ffd1f8a703b/slide_01.jpg"
   }
 }
