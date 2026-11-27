@@ -286,5 +286,17 @@
       "https://central-social.s3.fr-par.scw.cloud/social/1aad387ffee54076a3b5f462d8c5435e/central-interesse.mp4"
     ],
     "media_url": "https://central-social.s3.fr-par.scw.cloud/social/1aad387ffee54076a3b5f462d8c5435e/central-interesse.mp4"
+  },
+  "9dfcfce35e1d482582766bc31798438b": {
+    "status": "published",
+    "attempts": 1,
+    "provider_id": "18134669971765361",
+    "provider_status": "published",
+    "published_url": "https://www.instagram.com/reel/DgOcnW_JBpD/",
+    "provider_container_id": "18136078843819943",
+    "media_urls": [
+      "https://central-social.s3.fr-par.scw.cloud/social/9dfcfce35e1d482582766bc31798438b/central-citta.mp4"
+    ],
+    "media_url": "https://central-social.s3.fr-par.scw.cloud/social/9dfcfce35e1d482582766bc31798438b/central-citta.mp4"
   }
 }
